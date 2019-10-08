@@ -1,0 +1,389 @@
+2019-09-30 14:46:38,049 - file - INFO - path ===C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 14:46:38,049 - file - INFO - path ===C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 14:46:38,684 - file - INFO - Can not find the config.ini
+2019-09-30 14:46:38,684 - file - INFO - Can not find the config.ini
+2019-09-30 15:17:41,839 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:17:41,839 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:17:41,842 - file - INFO - Can not find the config.ini
+2019-09-30 15:17:41,842 - file - INFO - Can not find the config.ini
+2019-09-30 15:18:10,591 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:18:10,591 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:18:10,592 - file - INFO - Can not find the config.ini
+2019-09-30 15:18:10,592 - file - INFO - Can not find the config.ini
+2019-09-30 15:18:11,319 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:18:11,319 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:18:11,321 - file - INFO - Can not find the config.ini
+2019-09-30 15:18:11,321 - file - INFO - Can not find the config.ini
+2019-09-30 15:19:55,049 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:19:55,049 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:19:55,051 - file - INFO - Can not find the config.ini
+2019-09-30 15:19:55,051 - file - INFO - Can not find the config.ini
+2019-09-30 15:21:27,700 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:21:27,700 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:21:27,711 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:21:27,711 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:25:52,325 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:25:52,325 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:25:52,335 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:25:52,335 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:26:49,938 - file - INFO - filter project id ====CO1612008211
+2019-09-30 15:26:49,938 - file - INFO - filter project id ====CO1612008211
+2019-09-30 15:26:50,201 - file - INFO - filter project id ====CO1902507174
+2019-09-30 15:26:50,201 - file - INFO - filter project id ====CO1902507174
+2019-09-30 15:26:50,494 - file - INFO - filter project id ====CO1611662911
+2019-09-30 15:26:50,494 - file - INFO - filter project id ====CO1611662911
+2019-09-30 15:26:50,615 - file - INFO - filter project id ====CO1612008111
+2019-09-30 15:26:50,615 - file - INFO - filter project id ====CO1612008111
+2019-09-30 15:26:50,926 - file - INFO - filter project id ====CO1812142374
+2019-09-30 15:26:50,926 - file - INFO - filter project id ====CO1812142374
+2019-09-30 15:26:52,035 - file - INFO - filter project id ====CO1612009011
+2019-09-30 15:26:52,035 - file - INFO - filter project id ====CO1612009011
+2019-09-30 15:26:52,170 - file - INFO - filter project id ====CO1901307374
+2019-09-30 15:26:52,170 - file - INFO - filter project id ====CO1901307374
+2019-09-30 15:26:52,607 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:26:54,855 - excel.process.process - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 15:26:55,368 - excel.process.process - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 15:26:55,819 - excel.process.process - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 15:26:57,003 - excel.process.process - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 15:26:59,884 - excel.process.process - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 15:27:00,178 - excel.process.process - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 15:27:00,482 - excel.process.process - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 15:27:05,645 - excel.process.process - INFO - 将更新后的BC报表数据保存
+2019-09-30 15:27:05,655 - __main__ - INFO - 计算完成，文件路径：C:\Users\xjchenaf\Desktop\result.xls
+2019-09-30 15:33:05,453 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:33:05,453 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:33:05,463 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:33:05,463 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:33:38,878 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:33:38,878 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:33:38,884 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:33:38,884 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:33:58,190 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:33:58,190 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:33:58,450 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:33:58,450 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:33:58,742 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:33:58,742 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:33:58,861 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:33:58,861 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:33:59,170 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:33:59,170 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:34:00,276 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:34:00,276 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:34:00,413 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:34:00,413 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:34:35,516 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:34:35,516 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:45:48,759 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:45:48,759 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:45:48,769 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:45:48,769 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:46:08,073 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:46:08,073 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:46:08,325 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:46:08,325 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:46:08,607 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:46:08,607 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:46:08,723 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:46:08,723 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:46:09,023 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:46:09,023 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:46:10,105 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:46:10,105 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:46:10,239 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:46:10,239 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:46:15,983 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:49:05,746 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:49:05,746 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:49:05,755 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:49:05,755 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:49:25,240 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:49:25,240 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:49:25,493 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:49:25,493 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:49:25,778 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:49:25,778 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:49:25,897 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:49:25,897 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:49:26,203 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:49:26,203 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:49:27,292 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:49:27,292 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:49:27,427 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:49:27,427 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:49:36,522 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:49:36,522 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:50:29,651 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:50:29,651 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:50:29,657 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:50:29,657 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:51:01,477 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:51:01,477 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:51:01,733 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:51:01,733 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:51:02,017 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:51:02,017 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:51:02,135 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:51:02,135 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:51:02,438 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:51:02,438 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:51:03,536 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:51:03,536 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:51:03,668 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:51:03,668 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:51:04,111 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:51:04,111 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:51:04,111 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:52:05,973 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:52:05,973 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:52:05,977 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:52:05,977 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:52:26,125 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:52:26,125 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:52:26,392 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:52:26,392 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:52:26,696 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:52:26,696 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:52:26,819 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:52:26,819 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:52:27,145 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:52:27,145 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:52:28,299 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:52:28,299 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:52:28,436 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:52:28,436 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:52:28,898 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:52:28,898 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:52:28,898 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:52:28,898 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:53:17,746 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:53:17,746 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:53:17,753 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:53:17,753 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:53:37,404 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:53:37,404 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:53:37,660 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:53:37,660 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:53:37,941 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:53:37,941 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:53:38,059 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:53:38,059 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:53:38,358 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:53:38,358 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:53:39,444 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:53:39,444 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:53:39,578 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:53:39,578 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:53:45,710 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:53:45,710 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:53:45,710 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:53:45,710 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:53:45,710 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 15:54:53,118 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:54:53,118 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:54:53,125 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:54:53,125 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:55:59,865 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:55:59,865 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 15:55:59,872 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:55:59,872 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 15:56:18,944 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:56:18,944 - file - INFO - filter project id = CO1612008211
+2019-09-30 15:56:19,194 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:56:19,194 - file - INFO - filter project id = CO1902507174
+2019-09-30 15:56:19,471 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:56:19,471 - file - INFO - filter project id = CO1611662911
+2019-09-30 15:56:19,585 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:56:19,585 - file - INFO - filter project id = CO1612008111
+2019-09-30 15:56:19,884 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:56:19,884 - file - INFO - filter project id = CO1812142374
+2019-09-30 15:56:20,957 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:56:20,957 - file - INFO - filter project id = CO1612009011
+2019-09-30 15:56:21,086 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:56:21,086 - file - INFO - filter project id = CO1901307374
+2019-09-30 15:56:50,109 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 16:13:58,512 - excel.process.process - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:13:59,026 - excel.process.process - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:13:59,490 - excel.process.process - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:14:00,710 - excel.process.process - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:14:03,661 - excel.process.process - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:14:03,961 - excel.process.process - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:14:04,256 - excel.process.process - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:14:09,536 - excel.process.process - INFO - 将更新后的BC报表数据保存
+2019-09-30 16:14:09,594 - __main__ - INFO - 计算完成，文件路径：C:\Users\xjchenaf\Desktop\result.xls
+2019-09-30 16:18:51,155 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 16:18:51,155 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 16:18:51,164 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 16:18:51,164 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 16:19:11,055 - file - INFO - filter project id = CO1612008211
+2019-09-30 16:19:11,055 - file - INFO - filter project id = CO1612008211
+2019-09-30 16:19:11,315 - file - INFO - filter project id = CO1902507174
+2019-09-30 16:19:11,315 - file - INFO - filter project id = CO1902507174
+2019-09-30 16:19:11,607 - file - INFO - filter project id = CO1611662911
+2019-09-30 16:19:11,607 - file - INFO - filter project id = CO1611662911
+2019-09-30 16:19:11,726 - file - INFO - filter project id = CO1612008111
+2019-09-30 16:19:11,726 - file - INFO - filter project id = CO1612008111
+2019-09-30 16:19:12,035 - file - INFO - filter project id = CO1812142374
+2019-09-30 16:19:12,035 - file - INFO - filter project id = CO1812142374
+2019-09-30 16:19:13,154 - file - INFO - filter project id = CO1612009011
+2019-09-30 16:19:13,154 - file - INFO - filter project id = CO1612009011
+2019-09-30 16:19:13,290 - file - INFO - filter project id = CO1901307374
+2019-09-30 16:19:13,290 - file - INFO - filter project id = CO1901307374
+2019-09-30 16:20:10,967 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 16:21:05,926 - excel.process.process - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:21:13,697 - excel.process.process - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:21:14,164 - excel.process.process - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:21:15,391 - excel.process.process - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:21:18,344 - excel.process.process - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:21:18,648 - excel.process.process - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:21:18,946 - excel.process.process - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:21:28,493 - excel.process.process - INFO - 将更新后的BC报表数据保存
+2019-09-30 16:21:28,522 - __main__ - INFO - 计算完成，文件路径：C:\Users\xjchenaf\Desktop\result.xls
+2019-09-30 16:31:18,174 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 16:31:18,174 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 16:31:18,184 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 16:31:18,184 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 16:31:37,578 - file - INFO - filter project id = CO1612008211
+2019-09-30 16:31:37,578 - file - INFO - filter project id = CO1612008211
+2019-09-30 16:31:37,832 - file - INFO - filter project id = CO1902507174
+2019-09-30 16:31:37,832 - file - INFO - filter project id = CO1902507174
+2019-09-30 16:31:38,115 - file - INFO - filter project id = CO1611662911
+2019-09-30 16:31:38,115 - file - INFO - filter project id = CO1611662911
+2019-09-30 16:31:38,233 - file - INFO - filter project id = CO1612008111
+2019-09-30 16:31:38,233 - file - INFO - filter project id = CO1612008111
+2019-09-30 16:31:38,536 - file - INFO - filter project id = CO1812142374
+2019-09-30 16:31:38,536 - file - INFO - filter project id = CO1812142374
+2019-09-30 16:31:39,632 - file - INFO - filter project id = CO1612009011
+2019-09-30 16:31:39,632 - file - INFO - filter project id = CO1612009011
+2019-09-30 16:31:39,765 - file - INFO - filter project id = CO1901307374
+2019-09-30 16:31:39,765 - file - INFO - filter project id = CO1901307374
+2019-09-30 16:32:07,709 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 16:32:11,118 - excel.process.process - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:32:11,637 - excel.process.process - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:32:12,098 - excel.process.process - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:32:13,279 - excel.process.process - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:32:16,191 - excel.process.process - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:32:16,487 - excel.process.process - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:32:16,773 - excel.process.process - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:32:21,984 - excel.process.process - INFO - 将更新后的BC报表数据保存
+2019-09-30 16:34:04,573 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 16:34:04,573 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 16:34:04,582 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 16:34:04,582 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 16:34:23,970 - file - INFO - filter project id = CO1612008211
+2019-09-30 16:34:23,970 - file - INFO - filter project id = CO1612008211
+2019-09-30 16:34:24,226 - file - INFO - filter project id = CO1902507174
+2019-09-30 16:34:24,226 - file - INFO - filter project id = CO1902507174
+2019-09-30 16:34:24,515 - file - INFO - filter project id = CO1611662911
+2019-09-30 16:34:24,515 - file - INFO - filter project id = CO1611662911
+2019-09-30 16:34:24,634 - file - INFO - filter project id = CO1612008111
+2019-09-30 16:34:24,634 - file - INFO - filter project id = CO1612008111
+2019-09-30 16:34:24,940 - file - INFO - filter project id = CO1812142374
+2019-09-30 16:34:24,940 - file - INFO - filter project id = CO1812142374
+2019-09-30 16:34:26,039 - file - INFO - filter project id = CO1612009011
+2019-09-30 16:34:26,039 - file - INFO - filter project id = CO1612009011
+2019-09-30 16:34:26,174 - file - INFO - filter project id = CO1901307374
+2019-09-30 16:34:26,174 - file - INFO - filter project id = CO1901307374
+2019-09-30 16:34:33,997 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 16:35:15,982 - excel.process.process - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:44:57,969 - excel.process.process - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:44:58,430 - excel.process.process - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:45:08,983 - excel.process.process - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:46:49,898 - excel.process.process - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:46:50,201 - excel.process.process - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:46:50,503 - excel.process.process - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-09-30 16:46:55,713 - excel.process.process - INFO - 将更新后的BC报表数据保存
+2019-09-30 16:46:55,723 - __main__ - INFO - 计算完成，文件路径：C:\Users\xjchenaf\Desktop\result.xls
+2019-09-30 16:49:15,484 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 16:49:15,484 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 16:49:15,493 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 16:49:15,493 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 16:49:35,210 - file - INFO - filter project id = CO1612008211
+2019-09-30 16:49:35,210 - file - INFO - filter project id = CO1612008211
+2019-09-30 16:49:35,476 - file - INFO - filter project id = CO1902507174
+2019-09-30 16:49:35,476 - file - INFO - filter project id = CO1902507174
+2019-09-30 16:49:35,769 - file - INFO - filter project id = CO1611662911
+2019-09-30 16:49:35,769 - file - INFO - filter project id = CO1611662911
+2019-09-30 16:49:35,890 - file - INFO - filter project id = CO1612008111
+2019-09-30 16:49:35,890 - file - INFO - filter project id = CO1612008111
+2019-09-30 16:49:36,204 - file - INFO - filter project id = CO1812142374
+2019-09-30 16:49:36,204 - file - INFO - filter project id = CO1812142374
+2019-09-30 16:49:37,329 - file - INFO - filter project id = CO1612009011
+2019-09-30 16:49:37,329 - file - INFO - filter project id = CO1612009011
+2019-09-30 16:49:37,466 - file - INFO - filter project id = CO1901307374
+2019-09-30 16:49:37,466 - file - INFO - filter project id = CO1901307374
+2019-09-30 16:49:43,743 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 17:02:41,904 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 17:02:41,904 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 17:02:41,914 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 17:02:41,914 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 17:03:01,703 - file - INFO - filter project id = CO1612008211
+2019-09-30 17:03:01,703 - file - INFO - filter project id = CO1612008211
+2019-09-30 17:03:01,957 - file - INFO - filter project id = CO1902507174
+2019-09-30 17:03:01,957 - file - INFO - filter project id = CO1902507174
+2019-09-30 17:03:02,246 - file - INFO - filter project id = CO1611662911
+2019-09-30 17:03:02,246 - file - INFO - filter project id = CO1611662911
+2019-09-30 17:03:02,367 - file - INFO - filter project id = CO1612008111
+2019-09-30 17:03:02,367 - file - INFO - filter project id = CO1612008111
+2019-09-30 17:03:02,674 - file - INFO - filter project id = CO1812142374
+2019-09-30 17:03:02,674 - file - INFO - filter project id = CO1812142374
+2019-09-30 17:03:03,785 - file - INFO - filter project id = CO1612009011
+2019-09-30 17:03:03,785 - file - INFO - filter project id = CO1612009011
+2019-09-30 17:03:03,921 - file - INFO - filter project id = CO1901307374
+2019-09-30 17:03:03,921 - file - INFO - filter project id = CO1901307374
+2019-09-30 17:11:33,601 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 17:11:33,601 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 17:11:33,605 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 17:11:33,605 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 17:12:21,177 - file - INFO - filter project id = CO1612008211
+2019-09-30 17:12:21,177 - file - INFO - filter project id = CO1612008211
+2019-09-30 17:12:21,493 - file - INFO - filter project id = CO1902507174
+2019-09-30 17:12:21,493 - file - INFO - filter project id = CO1902507174
+2019-09-30 17:12:21,838 - file - INFO - filter project id = CO1611662911
+2019-09-30 17:12:21,838 - file - INFO - filter project id = CO1611662911
+2019-09-30 17:12:21,982 - file - INFO - filter project id = CO1612008111
+2019-09-30 17:12:21,982 - file - INFO - filter project id = CO1612008111
+2019-09-30 17:12:22,348 - file - INFO - filter project id = CO1812142374
+2019-09-30 17:12:22,348 - file - INFO - filter project id = CO1812142374
+2019-09-30 17:12:23,671 - file - INFO - filter project id = CO1612009011
+2019-09-30 17:12:23,671 - file - INFO - filter project id = CO1612009011
+2019-09-30 17:12:23,834 - file - INFO - filter project id = CO1901307374
+2019-09-30 17:12:23,834 - file - INFO - filter project id = CO1901307374
+2019-09-30 17:13:00,315 - excel.process.process - INFO - 开始更新BC报表数据
+2019-09-30 17:20:18,092 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 17:20:18,092 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 17:20:18,095 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 17:20:18,095 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 17:20:38,082 - file - INFO - filter project id = CO1612008211
+2019-09-30 17:20:38,082 - file - INFO - filter project id = CO1612008211
+2019-09-30 17:20:38,342 - file - INFO - filter project id = CO1902507174
+2019-09-30 17:20:38,342 - file - INFO - filter project id = CO1902507174
+2019-09-30 17:20:38,642 - file - INFO - filter project id = CO1611662911
+2019-09-30 17:20:38,642 - file - INFO - filter project id = CO1611662911
+2019-09-30 17:20:38,766 - file - INFO - filter project id = CO1612008111
+2019-09-30 17:20:38,766 - file - INFO - filter project id = CO1612008111
+2019-09-30 17:20:39,078 - file - INFO - filter project id = CO1812142374
+2019-09-30 17:20:39,078 - file - INFO - filter project id = CO1812142374
+2019-09-30 17:20:40,233 - file - INFO - filter project id = CO1612009011
+2019-09-30 17:20:40,233 - file - INFO - filter project id = CO1612009011
+2019-09-30 17:20:40,372 - file - INFO - filter project id = CO1901307374
+2019-09-30 17:20:40,372 - file - INFO - filter project id = CO1901307374
+2019-09-30 17:22:43,796 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 17:22:43,796 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-09-30 17:22:43,799 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 17:22:43,799 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-09-30 17:23:04,970 - file - INFO - filter project id = CO1612008211
+2019-09-30 17:23:04,970 - file - INFO - filter project id = CO1612008211
+2019-09-30 17:23:05,230 - file - INFO - filter project id = CO1902507174
+2019-09-30 17:23:05,230 - file - INFO - filter project id = CO1902507174
+2019-09-30 17:23:05,519 - file - INFO - filter project id = CO1611662911
+2019-09-30 17:23:05,519 - file - INFO - filter project id = CO1611662911
+2019-09-30 17:23:05,638 - file - INFO - filter project id = CO1612008111
+2019-09-30 17:23:05,638 - file - INFO - filter project id = CO1612008111
+2019-09-30 17:23:05,944 - file - INFO - filter project id = CO1812142374
+2019-09-30 17:23:05,944 - file - INFO - filter project id = CO1812142374
+2019-09-30 17:23:07,055 - file - INFO - filter project id = CO1612009011
+2019-09-30 17:23:07,055 - file - INFO - filter project id = CO1612009011
+2019-09-30 17:23:07,191 - file - INFO - filter project id = CO1901307374
+2019-09-30 17:23:07,191 - file - INFO - filter project id = CO1901307374
+2019-09-30 17:23:11,325 - excel.process.process - INFO - 开始更新BC报表数据
