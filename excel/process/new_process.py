@@ -27,7 +27,7 @@ class Caculating(object):
         self.bc_sheet_name = bc_sheetname
         self.output_path = output_path
 
-        self.LOG = get_logger(__name__)
+        LOG = get_logger(__name__)
 
         self.textBrowser = textBrowser
 
@@ -43,7 +43,7 @@ class Caculating(object):
         self.monthly_col_title_index = self.bc_report_obj.get_monthly_col_title_index()
         self.write_obj = WritingExcel(
             textBrowser, self.output_path, self.bc_sheet_name)
-        self.projects_list = self.monthly_obj.get_projects_data()
+        self.projects_list = self.monthly_obj.get_projects_data
 
         # 初始化成本中心对象，初始化所有成本中心的各项cost
         self.cost_center_obj = CostCenter()
@@ -53,7 +53,7 @@ class Caculating(object):
         self.new_cost_center_obj = CostCenter()
 
     def update(self):
-        self.LOG.info(u"开始更新BC报表数据")
+        LOG.info(u"开始更新BC报表数据")
         for project in self.projects_list:
             # 需要拆分的部分项目
             profit_data = self.profit_obj.get_project_data(
@@ -67,7 +67,7 @@ class Caculating(object):
                 msg = u"存在脏数据，项目id: %s 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID" \
                       u"在项目综合查询中是否存在" % project.get_project_id()
                 self.textBrowser.append(msg)
-                self.LOG.info(msg)
+                LOG.info(msg)
                 continue
 
             master_zone = Util.get_zone_key(center_name)
@@ -166,7 +166,7 @@ class Caculating(object):
         self.write_to_excel()
 
     def write_to_excel(self):
-        self.LOG.info(u"将更新后的BC报表数据保存")
+        LOG.info(u"将更新后的BC报表数据保存")
         for zone, center_name in ZONE.items():
             for item, cost_item in COST_ITEM.items():
                 value = getattr(

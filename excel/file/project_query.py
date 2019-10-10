@@ -3,7 +3,9 @@ import re
 
 from excel.constant.constant import *
 from excel.read_write.read_write_excel import ExcelRead
+from excel.util.log import get_logger
 
+LOG = get_logger(__name__)
 
 class QueryProject:
     """

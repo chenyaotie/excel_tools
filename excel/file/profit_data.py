@@ -3,8 +3,10 @@ from excel.constant.constant import *
 from excel.read_write.read_write_excel import ExcelRead
 from excel.util.log import get_logger
 
+LOG = get_logger(__name__)
 
-class ProfitData:
+
+class ProfitData(object):
     """
     利润中心表
     """
@@ -12,7 +14,6 @@ class ProfitData:
     def __init__(self, textBrowser, path):
 
         self.textBrowser = textBrowser
-        self.LOG = get_logger(__name__)
         self.profit_excel = ExcelRead(self.textBrowser, path)
         self.sheet = self.profit_excel.get_sheet_by_name(SHEET_NAME)
         self.index_of_title = self.profit_excel.get_col_index_of_title()
@@ -36,7 +37,7 @@ class ProfitData:
 
                 projects_datalist.append(row)
         except Exception as e:
-            self.LOG.info(e)
+            LOG.info(e)
             self.textBrowser.append(e)
 
         return projects_datalist
@@ -59,5 +60,5 @@ class ProfitData:
                     current_profit[key] = value
         except Exception as e:
             self.textBrowser.append(e.message)
-            self.LOG.info(e)
+            LOG.info(e)
         return current_profit

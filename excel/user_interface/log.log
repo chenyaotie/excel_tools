@@ -387,3 +387,1152 @@
 2019-09-30 17:23:07,191 - file - INFO - filter project id = CO1901307374
 2019-09-30 17:23:07,191 - file - INFO - filter project id = CO1901307374
 2019-09-30 17:23:11,325 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-09 17:35:35,076 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:35:35,076 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:35:35,076 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:37:56,470 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:37:56,470 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:37:56,470 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:38:12,992 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:38:12,992 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:38:12,992 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:40:41,421 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:40:41,421 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:40:41,421 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:41:15,463 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:41:15,463 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:41:15,463 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:41:16,411 - __main__ - INFO - 输入框不能为空
+
+2019-10-09 17:41:31,311 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:41:31,311 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:41:31,311 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:42:40,313 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:42:40,313 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:42:40,313 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:43:22,305 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:43:22,305 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:43:22,305 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:43:22,315 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:43:22,315 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:43:22,315 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:43:22,322 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 17:43:22,322 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 17:43:22,322 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 17:44:18,628 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:44:18,628 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:44:18,628 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:44:46,454 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:44:46,454 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:44:46,454 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:44:46,463 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:44:46,463 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:44:46,463 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:44:46,470 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 17:44:46,470 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 17:44:46,470 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 17:45:23,098 - __main__ - INFO - 打开excel文件失败，文件名称：None, 原因：'NoneType' object has no attribute '__getitem__'
+2019-10-09 17:46:45,105 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:46:45,105 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:46:45,105 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:48:15,834 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:48:15,834 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:48:15,834 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:51:50,573 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:51:50,573 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:51:50,573 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:52:20,956 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:52:20,956 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:52:20,956 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:53:12,923 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 17:53:12,923 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 17:53:12,923 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 17:58:51,312 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:58:51,312 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:58:51,312 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:58:54,904 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:58:54,904 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:58:54,904 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:59:10,782 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:59:10,782 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:59:10,782 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 17:59:52,510 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 17:59:52,510 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 17:59:52,510 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:02:46,845 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:02:46,845 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:02:46,845 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:03:14,694 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:03:14,694 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:03:14,694 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:03:47,664 - __main__ - INFO - 'Config' object has no attribute 'get_weight_data_dict'
+2019-10-09 18:04:10,243 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:04:10,243 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:04:10,243 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:04:46,000 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:04:46,000 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:04:46,000 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:05:11,989 - __main__ - INFO - 'ascii' codec can't decode byte 0xe5 in position 4: ordinal not in range(128)
+2019-10-09 18:06:31,832 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:06:31,832 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:06:31,832 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:07:05,243 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:07:05,243 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:07:05,243 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:07:54,332 - __main__ - INFO - 'ascii' codec can't decode byte 0xe5 in position 4: ordinal not in range(128)
+2019-10-09 18:10:44,441 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:10:44,441 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:10:44,441 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:11:15,740 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:11:15,740 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:11:15,740 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:12:16,750 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:12:16,750 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:12:16,750 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:13:00,207 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:13:00,207 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:13:00,207 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-09 18:13:31,358 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:13:31,358 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:13:31,358 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:14:23,124 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,124 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,124 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,127 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,127 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,127 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,130 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,130 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,130 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,134 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,134 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,134 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,137 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,137 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,137 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,140 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,140 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,140 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,142 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,142 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,142 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,144 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,144 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,144 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,154 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,154 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,154 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,157 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,157 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,157 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,160 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,160 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,160 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,174 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,174 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:23,174 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,023 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,023 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,023 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,026 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,026 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,026 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,029 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,029 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,029 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,032 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,032 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,032 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,036 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,036 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,036 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,039 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,039 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,039 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,042 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,042 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,042 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,046 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,046 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,046 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,055 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,055 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,055 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,058 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,058 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,058 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,061 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,061 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,061 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,073 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,073 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:26,073 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,099 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,099 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,099 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,102 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,102 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,102 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,107 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,107 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,107 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,111 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,111 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,111 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,115 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,115 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,115 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,119 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,119 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,119 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,121 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,121 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,121 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,125 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,125 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,125 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,137 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,137 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,137 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,140 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,140 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,140 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,144 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,144 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,144 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,160 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,160 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:34,160 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,375 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,375 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,375 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,381 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,381 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,381 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,384 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,384 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,384 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,392 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,392 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,392 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,398 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,398 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,398 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,407 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,407 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,407 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,411 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,411 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,411 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,414 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,414 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,414 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,433 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,433 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,433 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,438 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,438 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,438 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,443 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,443 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,443 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,473 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,473 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:43,473 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-09 18:14:54,569 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-09 18:15:17,369 - __main__ - INFO - 'list' object has no attribute 'get'
+2019-10-09 18:16:15,697 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:16:15,697 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-09 18:16:15,697 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:31:09,844 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:31:09,844 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:31:09,844 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:31:44,253 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:31:44,253 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:31:44,253 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:33:13,065 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:13,065 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:13,065 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:13,084 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:13,084 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:13,084 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:13,095 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:13,095 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:13,095 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,601 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,601 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,601 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,611 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,611 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,611 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,625 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,625 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,625 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,631 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,631 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,631 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,637 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,637 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,637 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,668 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,668 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,668 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,674 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,674 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,674 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,678 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,678 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,678 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,707 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,707 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,707 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:33:23,713 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 09:33:29,914 - __main__ - INFO - 'list' object has no attribute 'get'
+2019-10-10 09:33:56,045 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:33:56,045 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:33:56,045 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:34:38,434 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:34:38,434 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:34:38,434 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:34:47,836 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:34:47,836 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:34:47,836 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:35:27,513 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:35:27,513 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:35:27,513 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:36:00,065 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:36:00,065 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:36:00,065 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:36:24,661 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:36:24,661 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:36:24,661 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:36:51,596 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:36:51,596 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:36:51,596 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:37:15,184 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,184 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,184 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,187 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,187 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,187 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,188 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,188 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,188 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,193 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,193 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,193 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,196 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,196 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,196 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,198 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,198 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,198 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,201 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,201 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,201 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,203 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,203 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,203 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,211 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,211 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,211 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,213 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,213 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,213 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,216 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,216 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,216 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,230 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,230 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:37:15,230 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:48:42,234 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:48:42,234 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:48:42,234 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:49:14,691 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:49:14,691 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:49:14,691 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:51:10,244 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:51:10,244 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:51:10,244 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 09:51:38,332 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:51:38,332 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:51:38,332 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:53:10,144 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:10,144 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:10,144 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:12,295 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:12,295 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:12,295 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:15,753 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:15,753 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:15,753 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:16,506 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:16,506 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:16,506 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:17,101 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:17,101 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:17,101 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:17,121 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:17,121 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:17,121 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:17,141 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:17,141 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:17,141 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:38,910 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:38,910 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:38,910 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:42,505 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:42,505 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:42,505 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:42,599 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:42,599 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:42,599 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:50,141 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:50,141 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:50,141 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:50,428 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:50,428 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:53:50,428 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:55:55,105 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 09:56:01,025 - __main__ - INFO - 'list' object has no attribute 'get'
+2019-10-10 09:58:18,578 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:58:18,578 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:58:18,578 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 09:59:52,095 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,095 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,095 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,181 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,181 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,181 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,374 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,374 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,374 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,772 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,772 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,772 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,878 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,878 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,878 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,901 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,901 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,901 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,923 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,923 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:52,923 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:53,582 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:53,582 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:53,582 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:53,839 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:53,839 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:53,839 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:53,904 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:53,904 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:53,904 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:54,871 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:54,871 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:54,871 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:55,216 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:55,216 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 09:59:55,216 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:00:51,869 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:00:51,869 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:00:51,869 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:01:30,355 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:01:30,355 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:01:30,355 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:01:54,158 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,158 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,158 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,230 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,230 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,230 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,388 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,388 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,388 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,719 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,719 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,719 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,809 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,809 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,809 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,826 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,826 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,826 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,845 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,845 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:54,845 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:55,387 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:55,387 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:55,387 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:55,596 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:55,596 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:55,596 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:55,650 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:55,650 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:55,650 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:56,436 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:56,436 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:56,436 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:56,716 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:56,716 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:01:56,716 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:03:11,428 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 10:03:19,391 - __main__ - INFO - 'list' object has no attribute 'get'
+2019-10-10 10:03:54,829 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:03:54,829 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:03:54,829 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:04:25,423 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:25,423 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:25,423 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:25,510 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:25,510 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:25,510 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:25,707 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:25,707 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:25,707 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,108 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,108 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,108 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,217 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,217 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,217 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,239 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,239 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,239 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,262 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,262 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,262 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,917 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,917 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:26,917 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:27,174 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:27,174 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:27,174 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:27,242 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:27,242 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:27,242 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:28,213 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:28,213 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:28,213 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:28,552 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:28,552 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:04:28,552 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:06:49,957 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 10:06:54,767 - __main__ - INFO - 'list' object has no attribute 'get'
+2019-10-10 10:07:06,819 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:07:06,819 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:07:06,819 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:07:37,496 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:37,496 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:37,496 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:37,585 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:37,585 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:37,585 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:37,782 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:37,782 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:37,782 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:38,184 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:38,184 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:38,184 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:38,292 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:38,292 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:38,292 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:38,316 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:38,316 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:38,316 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:38,341 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:38,341 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:38,341 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:39,013 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:39,013 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:39,013 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:39,273 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:39,273 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:39,273 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:39,336 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:39,336 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:39,336 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:40,322 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:40,322 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:40,322 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:40,661 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:40,661 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:07:40,661 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:07,397 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 10:08:07,657 - __main__ - INFO - 'list' object has no attribute 'get'
+2019-10-10 10:08:18,647 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:08:18,647 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:08:18,647 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:08:42,756 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:42,756 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:42,756 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:42,828 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:42,828 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:42,828 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:42,992 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:42,992 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:42,992 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:43,336 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:43,336 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:43,336 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:43,427 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:43,427 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:43,427 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:43,446 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:43,446 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:43,446 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:43,464 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:43,464 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:43,464 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:44,040 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:44,040 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:44,040 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:44,257 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:44,257 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:44,257 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:44,312 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:44,312 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:44,312 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:45,121 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:45,121 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:45,121 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:45,421 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:45,421 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:08:45,421 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:15:48,167 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 10:15:53,496 - __main__ - INFO - 'list' object has no attribute 'get'
+2019-10-10 10:16:12,197 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:16:12,197 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:16:12,197 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:16:52,118 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:16:52,118 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:16:52,118 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:17:11,846 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:11,846 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:11,846 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:11,917 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:11,917 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:11,917 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,076 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,076 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,076 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,410 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,410 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,410 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,500 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,500 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,500 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,519 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,519 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,519 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,536 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,536 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:12,536 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:13,075 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:13,075 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:13,075 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:13,283 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:13,283 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:13,283 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:13,336 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:13,336 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:13,336 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:14,127 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:14,127 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:14,127 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:14,405 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:14,405 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:14,405 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:17:28,016 - excel.process.process - INFO - 总成本中心数据初始化完毕。
+2019-10-10 10:17:28,016 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 10:17:34,428 - __main__ - INFO - 'list' object has no attribute 'get'
+2019-10-10 10:17:52,982 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:17:52,982 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:17:52,982 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:18:21,216 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,216 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,216 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,289 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,289 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,289 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,448 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,448 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,448 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,786 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,786 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,786 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,875 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,875 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,875 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,894 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,894 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,894 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,913 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,913 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:21,913 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:22,474 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:22,474 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:22,474 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:22,697 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:22,697 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:22,697 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:22,753 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:22,753 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:22,753 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:23,562 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:23,562 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:23,562 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:23,845 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:23,845 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:23,845 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:18:35,217 - excel.process.process - INFO - 总成本中心数据初始化完毕。
+2019-10-10 10:18:42,052 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 10:19:32,377 - __main__ - INFO - 'list' object has no attribute 'get'
+2019-10-10 10:19:35,311 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:19:35,311 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:19:35,311 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:20:06,243 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,243 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,243 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,315 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,315 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,315 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,476 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,476 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,476 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,818 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,818 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,818 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,907 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,907 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,907 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,927 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,927 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,927 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,947 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,947 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:06,947 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:07,500 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:07,500 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:07,500 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:07,713 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:07,713 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:07,713 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:07,767 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:07,767 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:07,767 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:08,573 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:08,573 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:08,573 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:08,858 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:08,858 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:08,858 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:20:22,029 - excel.process.process - INFO - 总成本中心数据初始化完毕。
+2019-10-10 10:20:29,759 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 10:22:21,973 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:22:21,973 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:22:21,973 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:22:44,476 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:22:44,476 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:22:44,476 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:23:04,312 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,312 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,312 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,384 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,384 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,384 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,543 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,543 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,543 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,872 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,872 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,872 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,963 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,963 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,963 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,982 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,982 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:04,982 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:05,000 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:05,000 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:05,000 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:05,542 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:05,542 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:05,542 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:05,752 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:05,752 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:05,752 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:05,806 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:05,806 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:05,806 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:06,595 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:06,595 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:06,595 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:06,872 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:06,872 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:06,872 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:23:07,048 - excel.process.process - INFO - 总成本中心数据初始化完毕。
+2019-10-10 10:23:15,561 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 10:23:41,565 - __main__ - INFO - too many values to unpack
+2019-10-10 10:23:49,210 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:23:49,210 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:23:49,210 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:24:09,517 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:09,517 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:09,517 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:09,592 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:09,592 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:09,592 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:09,757 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:09,757 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:09,757 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,101 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,101 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,101 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,191 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,191 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,191 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,210 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,210 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,210 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,230 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,230 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,230 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,790 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,790 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:10,790 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:11,006 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:11,006 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:11,006 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:11,062 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:11,062 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:11,062 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:11,884 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:11,884 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:11,884 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:12,167 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:12,167 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:12,167 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:24:12,348 - excel.process.process - INFO - 总成本中心数据初始化完毕。
+2019-10-10 10:24:12,348 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 10:28:17,220 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:28:17,220 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:28:17,220 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:28:42,246 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:28:42,246 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:28:42,246 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:29:02,066 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,066 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,066 - file - INFO - 存在脏数据，项目id: CO1612008211 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,138 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,138 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,138 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,298 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,298 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,298 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,631 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,631 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,631 - file - INFO - 存在脏数据，项目id: CO1611662911 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,721 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,721 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,721 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,740 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,740 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,740 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,757 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,757 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:02,757 - file - INFO - 存在脏数据，项目id: CO1612008111 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:03,295 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:03,295 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:03,295 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:03,506 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:03,506 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:03,506 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:03,559 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:03,559 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:03,559 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:04,354 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:04,354 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:04,354 - file - INFO - 存在脏数据，项目id: CO1901307374 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:04,634 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:04,634 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:04,634 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:29:04,809 - excel.process.process - INFO - 总成本中心数据初始化完毕。
+2019-10-10 10:29:04,809 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 10:30:46,315 - excel.process.process - INFO - 将更新后的BC报表数据保存
+2019-10-10 10:30:50,043 - __main__ - INFO - 计算完成，文件路径：C:\Users\xjchenaf\Desktop\result.xls
+2019-10-10 10:36:16,256 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:36:16,256 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:36:16,256 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:36:51,362 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:36:51,362 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:36:51,362 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:36:52,782 - file - ERROR - No section: 'Weight'
+2019-10-10 10:36:52,782 - file - ERROR - No section: 'Weight'
+2019-10-10 10:36:52,782 - file - ERROR - No section: 'Weight'
+2019-10-10 10:40:15,065 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:40:15,065 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:40:15,065 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:40:48,549 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:40:48,549 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:40:48,549 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:41:53,996 - file - ERROR - 从配置文件获取 weight_sheet_name 出错： No section: 'Weight'
+2019-10-10 10:41:53,996 - file - ERROR - 从配置文件获取 weight_sheet_name 出错： No section: 'Weight'
+2019-10-10 10:41:53,996 - file - ERROR - 从配置文件获取 weight_sheet_name 出错： No section: 'Weight'
+2019-10-10 10:41:59,464 - __main__ - INFO - 'ascii' codec can't encode characters in position 0-6: ordinal not in range(128)
+2019-10-10 10:42:02,634 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:42:02,634 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:42:02,634 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:42:04,006 - file - ERROR - 从配置文件获取 weight_sheet_name 出错： No section: 'Weight'
+2019-10-10 10:42:04,006 - file - ERROR - 从配置文件获取 weight_sheet_name 出错： No section: 'Weight'
+2019-10-10 10:42:04,006 - file - ERROR - 从配置文件获取 weight_sheet_name 出错： No section: 'Weight'
+2019-10-10 10:42:05,881 - __main__ - INFO - 'ascii' codec can't encode characters in position 0-6: ordinal not in range(128)
+2019-10-10 10:42:12,016 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:42:12,016 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:42:12,016 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:42:13,365 - file - ERROR - 从配置文件获取 weight_sheet_name 出错： No section: 'Weight'
+2019-10-10 10:42:13,365 - file - ERROR - 从配置文件获取 weight_sheet_name 出错： No section: 'Weight'
+2019-10-10 10:42:13,365 - file - ERROR - 从配置文件获取 weight_sheet_name 出错： No section: 'Weight'
+2019-10-10 10:42:16,187 - __main__ - INFO - 'ascii' codec can't encode characters in position 0-6: ordinal not in range(128)
+2019-10-10 10:42:25,239 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:42:25,239 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:42:25,239 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:42:26,617 - file - ERROR - 从配置文件获取 weight_sheet_name 出错： No section: 'Weight'
+2019-10-10 10:42:26,617 - file - ERROR - 从配置文件获取 weight_sheet_name 出错： No section: 'Weight'
+2019-10-10 10:42:26,617 - file - ERROR - 从配置文件获取 weight_sheet_name 出错： No section: 'Weight'
+2019-10-10 10:42:31,142 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:42:31,142 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:42:31,142 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:42:59,352 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:42:59,352 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:42:59,352 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:^CO\d+$,
+2019-10-10 10:45:46,825 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:45:46,825 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:45:46,825 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:46:23,500 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:46:23,500 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:46:23,500 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:46:30,894 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 10:46:30,894 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 10:46:30,894 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 10:46:50,512 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 10:46:50,512 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 10:46:50,512 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 10:47:29,020 - file - INFO - filter project id = CO1612008211
+2019-10-10 10:47:29,020 - file - INFO - filter project id = CO1612008211
+2019-10-10 10:47:29,020 - file - INFO - filter project id = CO1612008211
+2019-10-10 10:47:29,107 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:29,107 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:29,107 - file - INFO - 存在脏数据，项目id: IM1810812362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:29,301 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:29,301 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:29,301 - file - INFO - 存在脏数据，项目id: PS1901222474 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:29,344 - file - INFO - filter project id = CO1902507174
+2019-10-10 10:47:29,344 - file - INFO - filter project id = CO1902507174
+2019-10-10 10:47:29,344 - file - INFO - filter project id = CO1902507174
+2019-10-10 10:47:29,703 - file - INFO - filter project id = CO1611662911
+2019-10-10 10:47:29,703 - file - INFO - filter project id = CO1611662911
+2019-10-10 10:47:29,703 - file - INFO - filter project id = CO1611662911
+2019-10-10 10:47:29,812 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:29,812 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:29,812 - file - INFO - 存在脏数据，项目id: IM1901291862 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:29,834 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:29,834 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:29,834 - file - INFO - 存在脏数据，项目id: IM1904912962 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:29,855 - file - INFO - filter project id = CO1612008111
+2019-10-10 10:47:29,855 - file - INFO - filter project id = CO1612008111
+2019-10-10 10:47:29,855 - file - INFO - filter project id = CO1612008111
+2019-10-10 10:47:30,239 - file - INFO - filter project id = CO1812142374
+2019-10-10 10:47:30,239 - file - INFO - filter project id = CO1812142374
+2019-10-10 10:47:30,239 - file - INFO - filter project id = CO1812142374
+2019-10-10 10:47:30,519 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:30,519 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:30,519 - file - INFO - 存在脏数据，项目id: IM1901349162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:30,776 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:30,776 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:30,776 - file - INFO - 存在脏数据，项目id: IM1906175162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:30,839 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:30,839 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:30,839 - file - INFO - 存在脏数据，项目id: IM1812088162 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:31,618 - file - INFO - filter project id = CO1612009011
+2019-10-10 10:47:31,618 - file - INFO - filter project id = CO1612009011
+2019-10-10 10:47:31,618 - file - INFO - filter project id = CO1612009011
+2019-10-10 10:47:31,789 - file - INFO - filter project id = CO1901307374
+2019-10-10 10:47:31,789 - file - INFO - filter project id = CO1901307374
+2019-10-10 10:47:31,789 - file - INFO - filter project id = CO1901307374
+2019-10-10 10:47:32,128 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:32,128 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:32,128 - file - INFO - 存在脏数据，项目id: IM1903710362 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID在项目综合查询中是否存在
+2019-10-10 10:47:34,803 - excel.process.process - INFO - 总成本中心数据初始化完毕。
+2019-10-10 10:47:38,513 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 10:52:35,209 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:52:35,209 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:52:35,209 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:53:12,798 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:53:12,798 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:53:12,798 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:53:18,299 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 10:53:18,299 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 10:53:18,299 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 10:53:21,615 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 10:53:21,615 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 10:53:21,615 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 10:54:24,417 - __main__ - INFO - ExcelRead instance has no attribute 'first_row_values'
+2019-10-10 10:55:42,572 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:55:42,572 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:55:42,572 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:56:33,756 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:56:33,756 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:56:33,756 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:57:05,111 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:57:05,111 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:57:05,111 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:57:05,243 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 10:57:05,243 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 10:57:05,243 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 10:57:05,243 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 10:57:05,243 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 10:57:05,243 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 10:58:36,414 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:58:36,414 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:58:36,414 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 10:59:09,773 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:59:09,773 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:59:09,773 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:59:09,920 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 10:59:09,920 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 10:59:09,920 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 10:59:09,921 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 10:59:09,921 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 10:59:09,921 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 10:59:29,457 - __main__ - INFO - ExcelRead instance has no attribute 'first_row_values'
+2019-10-10 10:59:33,220 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:59:33,220 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:59:33,220 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:59:44,036 - __main__ - INFO - ExcelRead instance has no attribute 'first_row_values'
+2019-10-10 10:59:46,943 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:59:46,943 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 10:59:46,943 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:00:19,869 - __main__ - INFO - ExcelRead instance has no attribute 'first_row_values'
+2019-10-10 11:00:22,822 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:00:22,822 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:00:22,822 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:00:24,823 - __main__ - INFO - ExcelRead instance has no attribute 'first_row_values'
+2019-10-10 11:00:29,405 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:00:29,405 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:00:29,405 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:01:25,059 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:01:25,059 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:01:25,059 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:01:25,167 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:01:25,167 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:01:25,167 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:01:25,167 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:01:25,167 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:01:25,167 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:02:07,947 - __main__ - INFO - ExcelRead instance has no attribute 'first_row_values'
+2019-10-10 11:02:12,996 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:02:12,996 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:02:12,996 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:02:23,401 - __main__ - INFO - ExcelRead instance has no attribute 'first_row_values'
+2019-10-10 11:02:32,677 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:02:32,677 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:02:32,677 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:03:40,482 - __main__ - INFO - ExcelRead instance has no attribute 'first_row_values'
+2019-10-10 11:03:43,000 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:03:43,000 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:03:43,000 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:04:46,940 - __main__ - INFO - ExcelRead instance has no attribute 'first_row_values'
+2019-10-10 11:04:52,395 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:04:52,395 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:04:52,395 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:05:22,927 - __main__ - INFO - ExcelRead instance has no attribute 'first_row_values'
+2019-10-10 11:05:26,390 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:05:26,390 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:05:26,390 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:09:47,160 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:09:47,160 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:09:47,160 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:10:20,592 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:10:20,592 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:10:20,592 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:10:32,410 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:10:32,410 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:10:32,410 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:10:42,838 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:10:42,838 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:10:42,838 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:11:09,298 - excel.process.process - INFO - 总成本中心数据初始化完毕。
+2019-10-10 11:11:11,940 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 11:12:45,573 - excel.process.process - INFO - 将更新后的BC报表数据保存
+2019-10-10 11:12:47,494 - __main__ - INFO - 计算完成，文件路径：C:\Users\xjchenaf\PycharmProjects\ExcelTools\单个项目测试数据\result.xls
+2019-10-10 11:13:19,326 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:13:19,326 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:13:19,326 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:13:44,053 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:13:44,053 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:13:44,053 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:13:44,167 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:13:44,167 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:13:44,167 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:13:50,750 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:13:50,750 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:13:50,750 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:13:55,572 - excel.process.process - INFO - 总成本中心数据初始化完毕。
+2019-10-10 11:13:58,459 - excel.process.process - INFO - 开始更新BC报表数据
+2019-10-10 11:14:22,651 - excel.process.process - INFO - 将更新后的BC报表数据保存
+2019-10-10 11:14:22,671 - __main__ - INFO - 计算完成，文件路径：C:\Users\xjchenaf\Desktop\result.xls
+2019-10-10 11:15:05,792 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:15:05,792 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:15:05,792 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:15:33,135 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:15:33,135 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:15:33,135 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:15:33,209 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:15:33,209 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:15:33,209 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:15:33,209 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:15:33,209 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:15:33,209 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:16:45,740 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:16:45,740 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:16:45,740 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:17:19,492 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:17:19,492 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:17:19,492 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:17:19,601 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:17:19,601 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:17:19,601 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:17:19,601 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:17:19,601 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:17:19,601 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:23:58,161 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:23:58,161 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:23:58,161 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:24:28,946 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:24:28,946 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:24:28,946 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:24:29,084 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:24:29,084 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:24:29,084 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:24:29,085 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:24:29,085 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:24:29,085 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:30:11,982 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:30:11,982 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:30:11,982 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\user_interface\config.ini
+2019-10-10 11:30:39,375 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:30:39,375 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:30:39,375 - file - INFO - get config info section:Default - key:Exclude_Project_ID - value:CO\d+|
+2019-10-10 11:30:39,489 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:30:39,489 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:30:39,489 - file - INFO - get config info section:Weight - key:weight_sheet_name - value:权重
+2019-10-10 11:30:39,490 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:30:39,490 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:30:39,490 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-10 11:30:49,028 - file - ERROR - 项目ID：IM1906295462,TS中成本中心和权重表中成本中心无法对应!!!
+2019-10-10 11:30:49,028 - file - ERROR - 项目ID：IM1906295462,TS中成本中心和权重表中成本中心无法对应!!!
+2019-10-10 11:30:49,028 - file - ERROR - 项目ID：IM1906295462,TS中成本中心和权重表中成本中心无法对应!!!
+2019-10-10 11:30:54,348 - file - ERROR - 表格数据异常，请整改后重试.
+2019-10-10 11:30:54,348 - file - ERROR - 表格数据异常，请整改后重试.
+2019-10-10 11:30:54,348 - file - ERROR - 表格数据异常，请整改后重试.

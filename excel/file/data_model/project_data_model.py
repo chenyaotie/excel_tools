@@ -23,7 +23,12 @@ class Project:
         return self.total_cost
 
     def set_ratio(self, d):
-        self.ratio.update(d)
+        """
+        {IM1904917862:{ratio:{cd:0.2,hz:0.8},weight_ratio:{cd:0.4,hz:0.6}}
+        :param d:
+        :return:
+        """
+        self.ratio = d
 
     def get_ratio(self):
         return self.ratio

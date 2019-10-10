@@ -11,7 +11,7 @@ class BCReport:
     def __init__(self, textBrowser, path):
 
         self.textBrowser = textBrowser
-        self.LOG = get_logger(__name__)
+        LOG = get_logger(__name__)
         self.path = path
         self.excel = ExcelWrite(self.textBrowser, self.path)
 

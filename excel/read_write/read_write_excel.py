@@ -6,6 +6,9 @@ import xlwt
 from xlutils.copy import copy
 
 from excel.constant.constant import *
+from excel.util.log import get_logger
+
+LOG = get_logger(__name__)
 
 
 class ExcelRead:
@@ -16,7 +19,7 @@ class ExcelRead:
             self.excel = xlrd.open_workbook(self.path)
             self.title_index_dict = dict()  # 记录title名称对应的索引编号
         except Exception as e:
-            msg = u"打开excel文件失败，文件名称：%s, 原因：%s" % (self.path, e)
+            msg = "打开excel文件失败，文件名称：%s, 原因：%s" % (self.path, e)
             raise Exception(msg)
 
     def get_excel_obj(self):
@@ -33,7 +36,8 @@ class ExcelRead:
         :return:
         """
         if not sheetname:
-            msg = u"未指定sheetname"
+            msg = u"未指定sheetname: %s" % sheetname
+            LOG.error(msg)
             self.textBrowser.append(msg)
             raise Exception(msg)
 
@@ -44,6 +48,10 @@ class ExcelRead:
                 sheet = self.excel.sheet_by_name(sheet_name)
                 self._get_first_row_values(sheet)
                 return sheet
+        msg = u"未找到对应的sheet页，sheet页名称应包含的字段：%s" % sheetname
+        LOG.error(msg)
+        self.textBrowser.append(msg)
+        raise Exception(msg)
 
     def get_sheet_by_keywords(self, keywords=list()):
         """

@@ -10,11 +10,12 @@ import os
 import threading
 
 from PyQt4 import QtCore, QtGui
-from PyQt4.QtCore import SIGNAL,QString
+from PyQt4.QtCore import SIGNAL, QString
 from PyQt4.QtGui import QWidget, QFileDialog
 
 from excel.process import process
 from excel.util.log import get_logger
+from excel.config.properties_util import Config
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -25,6 +26,7 @@ except AttributeError:
 try:
     _encoding = QtGui.QApplication.UnicodeUTF8
 
+
     def _translate(context, text, disambig):
         return QtGui.QApplication.translate(context, text, disambig, _encoding)
 except AttributeError:
@@ -33,17 +35,19 @@ except AttributeError:
 
 is_run = False
 
+LOG = get_logger(__name__)
+
 
 class Ui_Dialog(QWidget):
     def __init__(self):
         QWidget.__init__(self)
-        self.LOG = get_logger(__name__)
+        self.config = Config()
 
     def setupUi(self, Dialog):
         Dialog.setObjectName(_fromUtf8(u"财务报表统计"))
         Dialog.resize(632, 466)
         self.groupBox = QtGui.QGroupBox(Dialog)
-        self.groupBox.setGeometry(QtCore.QRect(0, 0, 553, 180))
+        self.groupBox.setGeometry(QtCore.QRect(0, 0, 553, 210))
         self.groupBox.setObjectName(_fromUtf8("groupBox"))
         self.formLayoutWidget = QtGui.QWidget(self.groupBox)
         self.formLayoutWidget.setGeometry(QtCore.QRect(10, 20, 500, 191))
@@ -124,14 +128,25 @@ class Ui_Dialog(QWidget):
 
         self.formLayout.setLayout(
             4, QtGui.QFormLayout.FieldRole, self.formLayout_3)
+        self.weightLabel = QtGui.QLabel(self.formLayoutWidget)
+        self.weightLabel.setObjectName(_fromUtf8("weightLabel"))
+        self.formLayout.setWidget(
+            5, QtGui.QFormLayout.LabelRole, self.weightLabel)
+        self.weightEdit = QtGui.QLineEdit(self.formLayoutWidget)
+        self.weightEdit.setObjectName(_fromUtf8("weight"))
+        self.formLayout.setWidget(
+            5, QtGui.QFormLayout.FieldRole, self.weightEdit)
+
+        self.formLayout.setLayout(
+            6, QtGui.QFormLayout.FieldRole, self.formLayout_3)
         self.outputpathLabel = QtGui.QLabel(self.formLayoutWidget)
         self.outputpathLabel.setObjectName(_fromUtf8("outputpathLabel"))
         self.formLayout.setWidget(
-            5, QtGui.QFormLayout.LabelRole, self.outputpathLabel)
+            7, QtGui.QFormLayout.LabelRole, self.outputpathLabel)
         self.outputpathEdit = QtGui.QLineEdit(self.formLayoutWidget)
         self.outputpathEdit.setObjectName(_fromUtf8("LineEdit_3"))
         self.formLayout.setWidget(
-            5, QtGui.QFormLayout.FieldRole, self.outputpathEdit)
+            7, QtGui.QFormLayout.FieldRole, self.outputpathEdit)
         self.groupBox_2 = QtGui.QGroupBox(Dialog)
         self.groupBox_2.setGeometry(QtCore.QRect(5, 210, 620, 250))
 
@@ -155,8 +170,14 @@ class Ui_Dialog(QWidget):
         self.toolButton_bc = QtGui.QToolButton(Dialog)
         self.toolButton_bc.setGeometry(QtCore.QRect(510, 100, 40, 20))
         self.toolButton_bc.setObjectName(_fromUtf8("toolButton_bc"))
+
+        self.toolButton_weight = QtGui.QToolButton(Dialog)
+        self.toolButton_weight.setGeometry(QtCore.QRect(510, 150, 40, 20))
+        self.toolButton_weight.setObjectName(_fromUtf8("toolButton_weight"))
+
+        #
         self.toolButton_output = QtGui.QToolButton(Dialog)
-        self.toolButton_output.setGeometry(QtCore.QRect(510, 150, 40, 20))
+        self.toolButton_output.setGeometry(QtCore.QRect(510, 180, 40, 20))
         self.toolButton_output.setObjectName(_fromUtf8("toolButton_output"))
 
         self.connect(
@@ -176,6 +197,11 @@ class Ui_Dialog(QWidget):
             SIGNAL("clicked()"),
             lambda: self.brower_file(
                 self.bCLineEdit))
+        self.connect(
+            self.toolButton_weight,
+            SIGNAL("clicked()"),
+            lambda: self.brower_file(
+                self.weightEdit))
         self.connect(
             self.toolButton_output,
             SIGNAL("clicked()"),
@@ -201,6 +227,7 @@ class Ui_Dialog(QWidget):
                 "BC报表中的sheet页名称                ",
                 None))
         self.bCSheetLineEdit.setText(_translate("Dialog", "2019-07", None))
+        self.weightLabel.setText(_translate("Dialog", "权重表", None))
         self.outputpathLabel.setText(_translate("Dialog", "汇总后输出路径", None))
         self.groupBox_2.setTitle(_translate("Dialog", "输出", None))
         self.pushButton.setText(_translate("Dialog", "Run", None))
@@ -209,18 +236,28 @@ class Ui_Dialog(QWidget):
         self.toolButton_project_qurey.setText(
             _translate("Dialog", "...", None))
         self.toolButton_bc.setText(_translate("Dialog", "...", None))
+        self.toolButton_weight.setText(_translate("Dialog", "...", None))
         self.toolButton_output.setText(_translate("Dialog", "...", None))
 
-    def get_path(self):
+    def initial_config(self):
         self.bc_sheet_name = unicode(self.bCSheetLineEdit.text())
         self.bc_report_path = unicode(self.bCLineEdit.text())
         self.li_run_report_path = unicode(self.Li_Run_ReportEdit.text())
         self.proeject_query_report_path = unicode(
             self.proeject_queryEdit.text())
         self.timesheet_report_path = unicode(self.timesheetLineEdit.text())
-
+        self.weight_path = unicode(self.weightEdit.text())
         self.output_path = os.path.join(
             unicode(self.outputpathEdit.text()), "result.xls")
+
+        self.config.set_timesheet_report_path(self.timesheet_report_path)
+        self.config.set_bc_report_path(self.bc_report_path)
+        self.config.set_bc_sheet_name(self.bc_sheet_name)
+        self.config.set_profit_report_path(self.li_run_report_path)
+        self.config.set_project_query_report_path(self.proeject_query_report_path)
+        self.config.set_weight_path(self.weight_path)
+        self.config.set_output_path(self.output_path)
+        self.config.set_textBrowser(self.textBrowser)
 
     def brower_file(self, line_edit):
         path = QFileDialog.getOpenFileName(self, 'Open file',
@@ -246,7 +283,7 @@ class Ui_Dialog(QWidget):
             self.textBrowser.insertPlainText(u"正在处理，请稍等...\n")
             return
 
-        self.get_path()
+        self.initial_config()
         result = map(self.is_empty,
                      [self.proeject_query_report_path,
                       self.bc_report_path,
@@ -257,8 +294,9 @@ class Ui_Dialog(QWidget):
         if False in result:
             msg = u"输入框不能为空\n"
             self.textBrowser.insertPlainText(msg)
-            self.LOG.info(msg)
+            LOG.info(msg)
             return
+
 
         t = threading.Thread(target=self.caculate)
         t.setDaemon(True)
@@ -269,22 +307,15 @@ class Ui_Dialog(QWidget):
 
     def caculate(self):
         try:
-            main_process = process.Caculating(
-                self.textBrowser,
-                self.timesheet_report_path,
-                self.li_run_report_path,
-                self.proeject_query_report_path,
-                self.bc_report_path,
-                self.bc_sheet_name,
-                self.output_path)
+            main_process = process.Caculating()
             main_process.update()
 
             self.textBrowser.append("completed.")
             self.textBrowser.append(u"文件已经输出到：%s" % self.output_path)
-            self.LOG.info(u"计算完成，文件路径：%s" % self.output_path)
+            LOG.info(u"计算完成，文件路径：%s" % self.output_path)
         except Exception as e:
-            self.textBrowser.append(e)
-            self.LOG.info(e)
+            LOG.info(e)
+            self.textBrowser.append(e.message)
             self.set_is_run(False)
 
     def set_is_run(self, boolean):

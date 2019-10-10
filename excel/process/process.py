@@ -8,34 +8,37 @@ from excel.file.project_query import QueryProject
 from excel.read_write.read_write_excel import WritingExcel
 from excel.util import Util
 from excel.util.log import get_logger
+from excel.file.weight_data import WeightData
 from excel.config.properties_util import Config
+
+LOG = get_logger(__name__)
 
 
 class Caculating(object):
-    def __init__(self, textBrowser, time_sheet_report_path, profit_report_path, project_qurey_report_path,
-                 bc_report_path,
-                 bc_sheetname, output_path):
-        self.timesheet_report_path = time_sheet_report_path
-        self.profit_report_path = profit_report_path
-        self.project_query_report_path = project_qurey_report_path
-        self.bc_report_path = bc_report_path
-        self.bc_sheet_name = bc_sheetname
-        self.output_path = output_path
+    def __init__(self):
+        self.config = Config()
+        self.timesheet_report_path = self.config.get_timesheet_report_path()
+        self.profit_report_path = self.config.get_profit_report_path()
+        self.project_query_report_path = self.config.get_project_query_report_path()
+        self.bc_report_path = self.config.get_bc_report_path()
+        self.bc_sheet_name = self.config.get_bc_sheet_name()
+        self.output_path = self.config.get_output_path()
+        self.textBrowser = self.config.get_textBrowser()
 
-        self.LOG = get_logger(__name__)
+        self.monthly_obj = MonthlyDataExcel(self.textBrowser, self.timesheet_report_path)
+        self.profit_obj = ProfitData(self.textBrowser, self.profit_report_path)
+        self.project_query_obj = QueryProject(self.textBrowser, self.project_query_report_path)
 
-        self.textBrowser = textBrowser
+        self.weight_data_dict = dict()
 
-        self.monthly_obj = MonthlyDataExcel(textBrowser, self.timesheet_report_path)
-        self.profit_obj = ProfitData(textBrowser, self.profit_report_path)
-        self.project_query_obj = QueryProject(textBrowser, self.project_query_report_path)
+        self.weight_data_dict = WeightData().get_weight_data_dict()
 
-        self.bc_report_obj = BCReport(textBrowser, self.bc_report_path)
+        self.bc_report_obj = BCReport(self.textBrowser, self.bc_report_path)
         self.bc_report_obj.init_monthly_table(self.bc_sheet_name)
         self.monthly_row_title_index = self.bc_report_obj.get_monthly_row_title_index()
         self.monthly_col_title_index = self.bc_report_obj.get_monthly_col_title_index()
-        self.write_obj = WritingExcel(textBrowser, self.output_path, self.bc_sheet_name)
-        self.projects_list = self.monthly_obj.get_projects_data()
+        self.write_obj = WritingExcel(self.textBrowser, self.output_path, self.bc_sheet_name)
+        self.projects_list = self.monthly_obj.get_projects_data
 
         # 初始化成本中心对象，初始化所有成本中心的各项cost
         self.cost_center_obj = CostCenter()
@@ -45,74 +48,38 @@ class Caculating(object):
         self.new_cost_center_obj = CostCenter()
 
     def update(self):
-        self.LOG.info(u"开始更新BC报表数据")
+        LOG.info(u"开始更新BC报表数据")
         for project in self.projects_list:
+            project_id = project.get_project_id()
+
             # 需要拆分的部分项目
-            profit_data = self.profit_obj.get_project_data_class(project.get_project_id())
+            profit_data = self.profit_obj.get_project_data_class(project_id)
 
             # 该项目对应的正确成本中心
-            main_center_name = self.project_query_obj.get_cost_ceter_name(project.get_project_id())
+            main_center_name = self.project_query_obj.get_cost_ceter_name(project_id)
 
-            if main_center_name is None:
-                msg = u"存在脏数据，项目id: %s 在<项目综合查询表>中不存在，请确认项目月度timesheet报表中的项目ID" \
-                      u"在项目综合查询中是否存在" % project.get_project_id()
-                self.textBrowser.append(msg)
-                self.LOG.info(msg)
-                continue
+            # 获取权重字典{u'IM1904917862': {u'成都企业IT部': 1.2, u'西安企业IT部': 0.8, u'杭州企业IT部': 1}}，或为{}
+            weight = self.weight_data_dict.get(project_id)
 
-            master_zone = Util.get_zone_key(main_center_name)
+            # if weight:
 
-            for slave_center, ratio in project.get_ratio().items():
-
-                # 成本中心为同一个，比值为1.0,不需要更新
-                if slave_center == main_center_name and ratio == 1.0:
-                    continue
-
-                if main_center_name == slave_center:
-                    # 主要成本中心 和 遍历出的成本中心相等时，不需要计算主要成本中心的成本变化
-                    continue
-
-                # 获取成本中心对应的英文键
-                zone = Util.get_zone_key(slave_center)
-                for item, value in profit_data.items():
-                    """
-                    
-                    如果有成本中心（x,y），总收入分别为A,B
-                    
-                    主要成本中心为x
-                    
-                    占比为x:y=0.2:0.8
-                    
-                    某项目的总收入为a
-                    
-                    那么
-                    
-                    成本中心x 需要减去 x-0.8a
-                    
-                    成本中心y 总收入：B+0.8a"""
-                    temp_value = value * ratio
-
-                    if item == REVENUE:
-                        temp_value = abs(temp_value)
-                    item_en = Util.get_cost_item_key(item)
-                    # 主要成本中心默认的总成本
-                    master_value = getattr(self.cost_center_obj, master_zone + '_' + item_en)
-                    # 次要成本中心默认值
-                    slave_value = getattr(self.cost_center_obj, zone + '_' + item_en)
-                    # 从主要成本中心扣除成本
-                    new_value = master_value - temp_value
-                    # 次要成本中心增加
-                    new_value_add = slave_value + temp_value
-
-                    # 更新成本中心
-                    setattr(self.cost_center_obj, master_zone + '_' + item_en, new_value)
-
-                    setattr(self.cost_center_obj, zone + '_' + item_en, new_value_add)
+            self._caculation(project, profit_data, main_center_name)
 
         self.write_to_excel()
 
+    def _is_weight_error(self, weight, center_name):
+        """
+        权重异常判断
+        :return:
+        """
+        if weight.has_key(center_name):
+            del (weight[center_name])
+        if weight.keys():
+            msg = u"存在项目id: %s 权重表异常"
+            self.textBrowser.append(msg)
+
     def write_to_excel(self):
-        self.LOG.info(u"将更新后的BC报表数据保存")
+        LOG.info(u"将更新后的BC报表数据保存")
         for zone, center_name in ZONE.items():
             for item, cost_item in COST_ITEM.items():
                 value = getattr(self.cost_center_obj, zone + "_" + item)
@@ -143,19 +110,33 @@ class Caculating(object):
         :param center_obj:
         :return:
         """
-        for zone_key, zone in ZONE.items():
-            colx_index = self.get_x_index(zone)
-            for costitem_key, item in COST_ITEM.items():
-                value = 0
-                rowx_index = self.get_y_index(item)
-                if rowx_index:
-                    # 获取bc报表单元格值
-                    value = self.bc_report_obj.get_monthly_cell_value(rowx_index, colx_index)
-                if not value:
-                    value = 0
 
-                # 初始化对应成本中心，各项值
-                setattr(self.cost_center_obj, zone_key + "_" + costitem_key, value)
+        for zone_key, zone in ZONE.items():
+            try:
+                colx_index = self.get_x_index(zone)
+            except Exception as e:
+                msg = u"未从表格中解析到%s所在列的列号, error: %s" % (zone, str(e))
+                LOG.error(msg)
+                self.textBrowser.append(msg)
+                raise Exception(msg)
+            for costitem_key, item in COST_ITEM.items():
+                try:
+                    value = 0
+                    rowx_index = self.get_y_index(item)
+                    if rowx_index:
+                        # 获取bc报表单元格值
+                        value = self.bc_report_obj.get_monthly_cell_value(rowx_index, colx_index)
+                    if not value:
+                        value = 0
+                    # 初始化对应成本中心，各项值
+                    setattr(self.cost_center_obj, zone_key + "_" + costitem_key, value)
+                except Exception as err:
+                    msg = u"总成本中心解析出错, 总成本中心：%s, 项目：%s, error: %s" % (zone, item, str(err))
+                    LOG.error(msg)
+                    self.textBrowser.append(msg)
+                    raise Exception(msg)
+
+        LOG.info(u"总成本中心数据初始化完毕。")
 
     def update_cell(self, row_name, col_name, value):
         # 获取需要更新的成本中心横向坐标
@@ -180,3 +161,56 @@ class Caculating(object):
         except KeyError as e:
             self.textBrowser.append(e.message)
             self.textBrowser.append(e)
+
+    def _caculation(self, project, profit_data, main_center_name):
+        master_zone = Util.get_zone_key(main_center_name)
+        ratio_dict = project.get_ratio().get("ratio")
+        weight_ratio_dict = project.get_ratio().get("weight_ratio")
+        for slave_center, ratio in ratio_dict.items():
+            if main_center_name == slave_center:
+                # 遍历出的主成本中心时，不需要计算成本变化
+                continue
+
+            weight_ratio = 0
+            if weight_ratio_dict:
+                weight_ratio =weight_ratio_dict.get(slave_center)
+
+            if not weight_ratio:  # 当获取不到权重占比时，就采用一般占比
+                weight_ratio = ratio
+
+            zone = Util.get_zone_key(slave_center)
+            for item, value in profit_data.items():
+                """
+                如果有成本中心（x,y），总收入分别为A,B
+                主要成本中心为x
+                
+                总金额占比：x:y = 0.4:0.6
+                
+                权重占比为x:y=0.2:0.8
+
+                成本中心x 总收入和税金 x-0.8*a , 其他收入  x-0.6a
+
+                成本中心y 总收入和税金：B+0.8a, 其他收入  x+0.6a
+                """
+                if item == REVENUE or item == TAX:
+                    temp_value = value * weight_ratio
+                else:
+                    temp_value = value * ratio
+
+                if item == REVENUE:
+                    temp_value = abs(temp_value)
+
+                item_en = Util.get_cost_item_key(item)
+                # 主要成本中心默认的总成本
+                master_value = getattr(self.cost_center_obj, master_zone + '_' + item_en)
+                # 次要成本中心默认值
+                slave_value = getattr(self.cost_center_obj, zone + '_' + item_en)
+                # 从主要成本中心扣除成本
+                new_value = master_value - temp_value
+                # 次要成本中心增加
+                new_value_add = slave_value + temp_value
+
+                # 更新成本中心
+                setattr(self.cost_center_obj, master_zone + '_' + item_en, new_value)
+
+                setattr(self.cost_center_obj, zone + '_' + item_en, new_value_add)
