@@ -161,7 +161,7 @@ class Config(object):
         except Exception as e:
             msg = u"从配置文件读取Cost_Center_Name成本中心数据解析失败：%s" % e
             LOG.error(e)
-            # self.textBrowser.append(str(e))
+            self.textBrowser.append(str(e))
             raise Exception(msg)
         return list(set(cost_center_name_list))
 
