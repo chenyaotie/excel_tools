@@ -5,11 +5,9 @@ import xlrd
 import xlwt
 from xlutils.copy import copy
 
-from excel.constant.constant import *
 from excel.util.log import get_logger
-
+from excel.config.config import Config
 LOG = get_logger(__name__)
-
 
 class ExcelRead:
     def __init__(self, textBrowser, path):
@@ -99,34 +97,8 @@ class ExcelRead:
             self.title_index_dict[key] = value
         return self.title_index_dict
 
-    def get_sheet_cell(self, sheetname, x, y):
-        """获取对应sheet页的单元格内容
-
-        :param sheetname:
-        :param x:
-        :param y:
-        :return:
-        """
-        pass
-
-    def set_sheet(self, sheetname):
-        """ 设置sheet页名称
-
-        :param sheetname:
-        :return:
-        """
-        pass
-
-    def set_sheet_cell(self, sheetname, x, y, value):
-        """ 设置对应sheet页中单元格内容
-
-        :param sheetname:
-        :param x:
-        :param y:
-        :param value:
-        :return:
-        """
-        pass
+    def clear(self):
+        self.excel=None
 
 
 class ExcelWrite:
@@ -163,12 +135,12 @@ class ExcelWrite:
 
 
 class WritingExcel(object):
-    ROW = [CD, XA, HZ, SZ, BJ, NJ, SZHOU]
-    COL = [REVENUE_ZH, LABOR_COST, REIMBURSEMENT_COST, WORKSTATION_COST, TAX]
-
     def __init__(self, textBrowser, path, sheet_name):
+        self.conf = Config()
         self.path = path
         self.textBrowser = textBrowser
+        self.ROW = self.conf.get_cost_center_name_list()
+        self.COL = self.conf.get_cost_class_list()
         try:
             self.workbook = xlwt.Workbook(encoding='utf-8')
             self.worksheet = self.workbook.add_sheet(
@@ -183,12 +155,11 @@ class WritingExcel(object):
         font = xlwt.Font()
         font.bold = True
         style.font = font
+        for j in range(len(self.COL)):
+            self.worksheet.write(j + 1, 0, self.COL[j], style)
 
-        for j in range(len(WritingExcel.COL)):
-            self.worksheet.write(j + 1, 0, WritingExcel.COL[j], style)
-
-        for i in range(len(WritingExcel.ROW)):
-            self.worksheet.write(0, i + 1, WritingExcel.ROW[i], style)
+        for i in range(len(self.ROW)):
+            self.worksheet.write(0, i + 1, self.ROW[i], style)
 
     def save(self):
         self.workbook.save(self.path)
@@ -196,8 +167,8 @@ class WritingExcel(object):
     def write(self, row_name, col_name, value):
 
         # 由于表格前面有空格，因此要+1
-        x = WritingExcel.ROW.index(row_name) + 1
-        y = WritingExcel.COL.index(col_name) + 1
+        x = self.ROW.index(row_name) + 1
+        y = self.COL.index(col_name) + 1
 
         # 由于行列索引号和实际是反的，因此要倒换x,y的顺序
         self.worksheet.write(y, x, value)

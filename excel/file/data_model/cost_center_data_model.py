@@ -20,6 +20,8 @@ class CostCenter:
         self.hz_reimbursement_cost = 0.0
         self.hz_workstation_cost = 0.0
         self.hz_tax_rate = 0.0
+
+        # 深圳
         self.sz_revenue_cost = 0.0
         self.sz_labor_cost = 0.0
         self.sz_reimbursement_cost = 0.0

@@ -8,14 +8,14 @@
 
 import os
 import threading
-
+import time
 from PyQt4 import QtCore, QtGui
 from PyQt4.QtCore import SIGNAL, QString
 from PyQt4.QtGui import QWidget, QFileDialog
 
 from excel.process import process
 from excel.util.log import get_logger
-from excel.config.properties_util import Config
+from excel.config.config import Config
 
 try:
     _fromUtf8 = QtCore.QString.fromUtf8
@@ -280,6 +280,7 @@ class Ui_Dialog(QWidget):
 
         if self.get_is_run():
             self.textBrowser.clear()
+            time.sleep(0.2)
             self.textBrowser.insertPlainText(u"正在处理，请稍等...\n")
             return
 
@@ -315,7 +316,9 @@ class Ui_Dialog(QWidget):
             LOG.info(u"计算完成，文件路径：%s" % self.output_path)
         except Exception as e:
             LOG.info(e)
-            self.textBrowser.append(e.message)
+            if type(e) != unicode or type(e)!=str:
+                e=str(e)
+            self.textBrowser.append(e)
             self.set_is_run(False)
 
     def set_is_run(self, boolean):

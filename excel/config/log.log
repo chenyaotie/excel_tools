@@ -1,0 +1,100 @@
+2019-10-10 16:48:46,410 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\config\config.ini
+2019-10-10 16:48:46,411 - file - INFO - get config info section:CostCenter - key:cost_center - value:{"成都企业IT部":"cd","杭州企业IT部":"hz"}
+2019-10-10 16:48:55,986 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\config\config.ini
+2019-10-10 16:49:06,134 - file - INFO - get config info section:CostCenter - key:cost_center - value:{"成都企业IT部":"cd","杭州企业IT部":"hz"}
+2019-10-10 16:49:46,747 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\config\config.ini
+2019-10-10 16:49:48,368 - file - INFO - get config info section:CostCenter - key:cost_center - value:{"成都企业IT部":"cd","杭州企业IT部":"hz"}
+2019-10-10 16:50:28,956 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\config\config.ini
+2019-10-10 16:50:30,463 - file - INFO - get config info section:CostCenter - key:cost_center - value:{"cd":"成都企业IT部","hz":"杭州企业IT部"}
+2019-10-10 16:50:40,540 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\config\config.ini
+2019-10-10 16:50:40,543 - file - INFO - get config info section:CostCenter - key:cost_center - value:{"cd":"成都企业IT部","hz":"杭州企业IT部"}
+2019-10-11 14:18:34,822 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\config\config.ini
+2019-10-11 14:18:34,822 - file - INFO - Can not find the config.ini
+2019-10-11 14:19:07,788 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\config\config.ini
+2019-10-11 14:19:07,795 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-11 14:19:07,796 - file - INFO - get config info section:Default - key:Cost_Class - value:Revenue|项目实施人工成本|实施报销成本|工位成本|Sales Tax
+2019-10-11 14:19:07,796 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-11 14:19:10,167 - file - INFO - get config info section:Default - key:RE - value:{"成都企业IT部":"(?:HW成都|成都HW)企业IT(?:实施|研发)部",
+"杭州企业IT部":"(?:HW杭州|杭州HW)企业IT(?:实施|研发)部",
+"深圳企业IT部":"(?:HW深圳|深圳HW)企业IT(?:实施|研发)部",
+"西安企业IT部":"(?:HW西安|西安HW)企业IT(?:实施|研发)部",
+"南京企业IT部":"(?:南京HW|HW南京)企业IT(?:实施|研发)部",
+"北京企业IT部":"(?:HW北京|北京HW)企业IT(?:实施|研发)部",
+"苏州企业IT部":"(?:HW苏州|苏州HW)企业IT(?:实施|研发)部"}
+2019-10-11 14:19:43,338 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\config\config.ini
+2019-10-11 14:19:43,345 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-11 14:19:43,346 - file - INFO - get config info section:Default - key:Cost_Class - value:Revenue|项目实施人工成本|实施报销成本|工位成本|Sales Tax
+2019-10-11 14:19:43,348 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-11 14:19:46,592 - file - INFO - get config info section:Default - key:RE - value:{"成都企业IT部":"(?:HW成都|成都HW)企业IT(?:实施|研发)部",
+"杭州企业IT部":"(?:HW杭州|杭州HW)企业IT(?:实施|研发)部",
+"深圳企业IT部":"(?:HW深圳|深圳HW)企业IT(?:实施|研发)部",
+"西安企业IT部":"(?:HW西安|西安HW)企业IT(?:实施|研发)部",
+"南京企业IT部":"(?:南京HW|HW南京)企业IT(?:实施|研发)部",
+"北京企业IT部":"(?:HW北京|北京HW)企业IT(?:实施|研发)部",
+"苏州企业IT部":"(?:HW苏州|苏州HW)企业IT(?:实施|研发)部"}
+2019-10-11 14:20:04,328 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\config\config.ini
+2019-10-11 14:20:04,334 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-11 14:20:04,335 - file - INFO - get config info section:Default - key:Cost_Class - value:Revenue|项目实施人工成本|实施报销成本|工位成本|Sales Tax
+2019-10-11 14:20:04,335 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-11 14:20:10,855 - file - INFO - get config info section:Default - key:RE - value:{"成都企业IT部":"(?:HW成都|成都HW)企业IT(?:实施|研发)部",
+"杭州企业IT部":"(?:HW杭州|杭州HW)企业IT(?:实施|研发)部",
+"深圳企业IT部":"(?:HW深圳|深圳HW)企业IT(?:实施|研发)部",
+"西安企业IT部":"(?:HW西安|西安HW)企业IT(?:实施|研发)部",
+"南京企业IT部":"(?:南京HW|HW南京)企业IT(?:实施|研发)部",
+"北京企业IT部":"(?:HW北京|北京HW)企业IT(?:实施|研发)部",
+"苏州企业IT部":"(?:HW苏州|苏州HW)企业IT(?:实施|研发)部"}
+2019-10-11 14:20:15,119 - file - INFO - get config info section:Default - key:RE - value:{"成都企业IT部":"(?:HW成都|成都HW)企业IT(?:实施|研发)部",
+"杭州企业IT部":"(?:HW杭州|杭州HW)企业IT(?:实施|研发)部",
+"深圳企业IT部":"(?:HW深圳|深圳HW)企业IT(?:实施|研发)部",
+"西安企业IT部":"(?:HW西安|西安HW)企业IT(?:实施|研发)部",
+"南京企业IT部":"(?:南京HW|HW南京)企业IT(?:实施|研发)部",
+"北京企业IT部":"(?:HW北京|北京HW)企业IT(?:实施|研发)部",
+"苏州企业IT部":"(?:HW苏州|苏州HW)企业IT(?:实施|研发)部"}
+2019-10-11 14:20:29,048 - file - INFO - get config info section:Default - key:RE - value:{"成都企业IT部":"(?:HW成都|成都HW)企业IT(?:实施|研发)部",
+"杭州企业IT部":"(?:HW杭州|杭州HW)企业IT(?:实施|研发)部",
+"深圳企业IT部":"(?:HW深圳|深圳HW)企业IT(?:实施|研发)部",
+"西安企业IT部":"(?:HW西安|西安HW)企业IT(?:实施|研发)部",
+"南京企业IT部":"(?:南京HW|HW南京)企业IT(?:实施|研发)部",
+"北京企业IT部":"(?:HW北京|北京HW)企业IT(?:实施|研发)部",
+"苏州企业IT部":"(?:HW苏州|苏州HW)企业IT(?:实施|研发)部"}
+2019-10-11 14:20:35,349 - file - INFO - get config info section:Default - key:RE - value:{"成都企业IT部":"(?:HW成都|成都HW)企业IT(?:实施|研发)部",
+"杭州企业IT部":"(?:HW杭州|杭州HW)企业IT(?:实施|研发)部",
+"深圳企业IT部":"(?:HW深圳|深圳HW)企业IT(?:实施|研发)部",
+"西安企业IT部":"(?:HW西安|西安HW)企业IT(?:实施|研发)部",
+"南京企业IT部":"(?:南京HW|HW南京)企业IT(?:实施|研发)部",
+"北京企业IT部":"(?:HW北京|北京HW)企业IT(?:实施|研发)部",
+"苏州企业IT部":"(?:HW苏州|苏州HW)企业IT(?:实施|研发)部"}
+2019-10-11 14:21:14,345 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\config\config.ini
+2019-10-11 14:21:14,349 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-11 14:21:14,351 - file - INFO - get config info section:Default - key:Cost_Class - value:Revenue|项目实施人工成本|实施报销成本|工位成本|Sales Tax
+2019-10-11 14:21:14,351 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-11 14:21:19,678 - file - INFO - get config info section:Default - key:RE - value:{"成都企业IT部":"(?:HW成都|成都HW)企业IT(?:实施|研发)部",
+"杭州企业IT部":"(?:HW杭州|杭州HW)企业IT(?:实施|研发)部",
+"深圳企业IT部":"(?:HW深圳|深圳HW)企业IT(?:实施|研发)部",
+"西安企业IT部":"(?:HW西安|西安HW)企业IT(?:实施|研发)部",
+"南京企业IT部":"(?:南京HW|HW南京)企业IT(?:实施|研发)部",
+"北京企业IT部":"(?:HW北京|北京HW)企业IT(?:实施|研发)部",
+"苏州企业IT部":"(?:HW苏州|苏州HW)企业IT(?:实施|研发)部"}
+2019-10-11 14:21:19,678 - file - ERROR - 转换成本中心正则表达式为dict时失败：global name 'json' is not defined
+2019-10-11 14:21:34,828 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\config\config.ini
+2019-10-11 14:21:34,832 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-11 14:21:34,832 - file - INFO - get config info section:Default - key:Cost_Class - value:Revenue|项目实施人工成本|实施报销成本|工位成本|Sales Tax
+2019-10-11 14:21:34,834 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-11 14:21:37,338 - file - INFO - get config info section:Default - key:RE - value:{"成都企业IT部":"(?:HW成都|成都HW)企业IT(?:实施|研发)部",
+"杭州企业IT部":"(?:HW杭州|杭州HW)企业IT(?:实施|研发)部",
+"深圳企业IT部":"(?:HW深圳|深圳HW)企业IT(?:实施|研发)部",
+"西安企业IT部":"(?:HW西安|西安HW)企业IT(?:实施|研发)部",
+"南京企业IT部":"(?:南京HW|HW南京)企业IT(?:实施|研发)部",
+"北京企业IT部":"(?:HW北京|北京HW)企业IT(?:实施|研发)部",
+"苏州企业IT部":"(?:HW苏州|苏州HW)企业IT(?:实施|研发)部"}
+2019-10-11 14:22:13,841 - file - INFO - config path is: C:\Users\xjchenaf\PycharmProjects\ExcelTools\excel\config\config.ini
+2019-10-11 14:22:13,845 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-11 14:22:13,845 - file - INFO - get config info section:Default - key:Cost_Class - value:Revenue|项目实施人工成本|实施报销成本|工位成本|Sales Tax
+2019-10-11 14:22:13,846 - file - INFO - get config info section:Default - key:Cost_Center_Name - value:成都企业IT部|杭州企业IT部|深圳企业IT部|西安企业IT部|南京企业IT部|北京企业IT部|苏州企业IT部
+2019-10-11 14:22:19,444 - file - INFO - get config info section:Default - key:RE - value:{"成都企业IT部":"(?:HW成都|成都HW)企业IT(?:实施|研发)部",
+"杭州企业IT部":"(?:HW杭州|杭州HW)企业IT(?:实施|研发)部",
+"深圳企业IT部":"(?:HW深圳|深圳HW)企业IT(?:实施|研发)部",
+"西安企业IT部":"(?:HW西安|西安HW)企业IT(?:实施|研发)部",
+"南京企业IT部":"(?:南京HW|HW南京)企业IT(?:实施|研发)部",
+"北京企业IT部":"(?:HW北京|北京HW)企业IT(?:实施|研发)部",
+"苏州企业IT部":"(?:HW苏州|苏州HW)企业IT(?:实施|研发)部"}
