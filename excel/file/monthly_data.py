@@ -179,12 +179,14 @@ class MonthlyDataExcel(object):
 
     def __calculation(self):
         """
+        获取project 对象list
         :param
         :return: [project1,project2,project3...}
         """
         self.__filter_project()
         project_list = list()
         for project_id, cost_dict in self.projects_dict.items():
+            #创建一个project对象用于保存project_id和其占比
             project = Project()
             current_project_weight = self.__get_weight(project_id)
 
@@ -285,6 +287,7 @@ class MonthlyDataExcel(object):
             self.textBrowser.append(msg)
 
         total_cost = 0
+        #获取当前项目总成本*权重的值，得到新的总成本
         for cost_ceter, cost in cost_dict.items():
             # 获取成本中心权重
             weight_value = current_project_weight.get(cost_ceter)
@@ -305,6 +308,7 @@ class MonthlyDataExcel(object):
             self.is_right_ratio = True
             total_cost = -1
 
+        # 当前项目对应的各成本中心的总成本 * 当前成本中心权重值 / 当前项目新的总成本
         weigth_ratio = dict()
         for cost_ceter, cost in cost_dict.items():
             weight_value = current_project_weight.get(cost_ceter, 0)

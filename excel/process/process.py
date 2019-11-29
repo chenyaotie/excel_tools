@@ -24,22 +24,28 @@ class Caculating(object):
         self.output_path = self.config.get_output_path()
         self.textBrowser = self.config.get_textBrowser()
 
+        #time_sheet
         self.monthly_obj = MonthlyDataExcel(
             self.textBrowser, self.timesheet_report_path)
         self.project_ratio_datalist = self.monthly_obj.get_project_ratio_datalist()
 
+        #利润表
         self.profit_obj = ProfitData(self.textBrowser, self.profit_report_path)
+
+        #项目综合查询
         self.project_query_obj = QueryProject(
             self.textBrowser, self.project_query_report_path)
 
         self.weight_data_dict = dict()
 
         self.weight_data_dict = WeightData().get_weight_data_dict()
-
+        #BC 报表
         self.bc_report_obj = BCReport(self.textBrowser, self.bc_report_path)
         self.bc_report_obj.init_monthly_table(self.bc_sheet_name)
+
         self.bc_row_title_index = self.bc_report_obj.get_row_title_index()
         self.bc_col_title_index = self.bc_report_obj.get_col_title_index()
+        #结果表
         self.write_obj = WritingExcel(
             self.textBrowser,
             self.output_path,
