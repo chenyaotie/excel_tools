@@ -7,6 +7,10 @@ from xlutils.copy import copy
 
 from excel.util.log import get_logger
 from excel.config.config import Config
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
+
 LOG = get_logger(__name__)
 
 class ExcelRead:
@@ -14,6 +18,8 @@ class ExcelRead:
         self.path = path
         self.textBrowser = textBrowser
         try:
+            msg = u"文件路径：%s"%self.path
+            LOG.info(msg)
             self.excel = xlrd.open_workbook(self.path)
             self.title_index_dict = dict()  # 记录title名称对应的索引编号
         except Exception as e:
@@ -95,6 +101,8 @@ class ExcelRead:
             key = self.first_row_values[i]
             value = i
             self.title_index_dict[key] = value
+        msg = "获取行首内容：%s" % self.title_index_dict
+        LOG.info(msg)
         return self.title_index_dict
 
     def clear(self):

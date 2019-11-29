@@ -10,7 +10,10 @@ from excel.config.config import Config
 from excel.file.weight_data import WeightData
 from excel.file.project_query import QueryProject
 from excel.util import Util
-import time
+import sys
+
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 LOG = get_logger(file.__name__)
 
@@ -22,9 +25,12 @@ class MonthlyDataExcel(object):
     """
 
     def __init__(self, textBrowser, path):
+        self.textBrowser = textBrowser
+        msg = u"开始初始化读取timesheet."
+        LOG.info(msg)
+        self.textBrowser.append(msg)
         self.config = Config()
         self.project_query_report_path = self.config.get_project_query_report_path()
-        self.textBrowser = textBrowser
         self.total_cost = None
         self.path = path
         self.sheet = None
@@ -196,8 +202,9 @@ class MonthlyDataExcel(object):
                     project_id, cost_dict)
                 project.set_project_id(project_id)
                 project.set_ratio({"ratio": ratio_dict})
-            project_list.append(project)
+                LOG.info("project_id: %s, ratio_dict: %s" % (project_id, ratio_dict))
 
+            project_list.append(project)
         if self.is_right_ratio:
             msg = u"表格数据异常，请整改后重试."
             LOG.error(msg)
@@ -207,7 +214,7 @@ class MonthlyDataExcel(object):
         return project_list
 
     def __find_data_in_row(self, cost_ceter_index, cost_index, row, item_dict):
-        """ 将同一个项目下的成本中心拆分{成本中心1：totalcost,成本中心2：totalcost}
+        """ 将同一个项目下的成本中心拆分{成本中心1：totalcost,成本中心2：totalcost, other:totalcost}
         :param cost_ceter_index:
         :param row:
         :param item_dict:
@@ -216,12 +223,20 @@ class MonthlyDataExcel(object):
         if not row:
             raise Exception(u"该行数据为空")
         re_dict = self.config.get_cost_center_re_dict()
+
+        flag = False
         for k, r in re_dict.items():
             if re.match(r, row[cost_ceter_index]):
                 value = item_dict.get(k, 0)
                 value += row[cost_index]
                 item_dict[k] = value
+                flag = True
                 break
+
+        if flag == False:
+            value = item_dict.get("other", 0)
+            value += row[cost_index]
+            item_dict["other"] = value
 
     def __get_exclude_project_id(self):
         result = self.config.get_value(
@@ -273,6 +288,8 @@ class MonthlyDataExcel(object):
         for cost_ceter, cost in cost_dict.items():
             # 获取成本中心权重
             weight_value = current_project_weight.get(cost_ceter)
+            if cost_ceter == "other":
+                weight_value = 1
             if weight_value is None:
                 msg = u"项目ID：%s, 成本中心：%s 权重为空!!!" % (project_id, cost_ceter)
                 LOG.warn(msg)
@@ -290,7 +307,7 @@ class MonthlyDataExcel(object):
 
         weigth_ratio = dict()
         for cost_ceter, cost in cost_dict.items():
-            weight_value = current_project_weight.get(cost_ceter)
+            weight_value = current_project_weight.get(cost_ceter, 0)
             if weight_value is None:
                 weight_value = 1
             weigth_ratio[cost_ceter] = cost * weight_value / total_cost

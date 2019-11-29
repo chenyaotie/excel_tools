@@ -5,6 +5,9 @@ from excel.util.log import get_logger
 from excel.read_write.read_write_excel import ExcelRead
 from excel.config.config import Config
 from excel.util import Util
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 LOG = get_logger(file.__name__)
 

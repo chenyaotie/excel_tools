@@ -6,7 +6,12 @@ import threading
 from excel.util.log import get_logger
 import re
 import random
+import sys
+
+reload(sys)
 import json
+
+sys.setdefaultencoding('utf8')
 
 path = r"C:\Users\xjchenaf\PycharmProjects\ExcelTools\config.ini"
 
@@ -86,7 +91,6 @@ class Config(object):
         if not result:
             msg = u"未在配置文件中找到SECTION:%s  KEY:%s对应的值" % (section, key)
             LOG.error(msg)
-            self.textBrowser.append(msg)
             raise Exception
         LOG.info(
             u"get config info section:%s - key:%s - value:%s" %
@@ -153,6 +157,9 @@ class Config(object):
 
     def get_zone_dict(self):
         return self.zone
+
+    def set_zone_dict(self, d):
+        self.zone = d
 
     def _get_cost_center_name_list(self):
         try:

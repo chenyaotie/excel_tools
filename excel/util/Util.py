@@ -1,6 +1,10 @@
 # coding=utf-8
 import operator
 from excel.util.log import get_logger
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
+
 LOG = get_logger(__name__)
 
 def get_costitem_en(name, costitem_dict):

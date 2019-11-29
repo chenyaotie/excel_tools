@@ -1,7 +1,9 @@
 # coding=utf-8
 from excel.read_write.read_write_excel import ExcelWrite
 from excel.util.log import get_logger
-
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 LOG = get_logger(__name__)
 
 

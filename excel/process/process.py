@@ -115,7 +115,10 @@ class Caculating(object):
             try:
                 colx_index = self.__get_x_index(zone_zh)
                 if not colx_index:
-                    raise Exception("BC报表中不存在%s列" % zone_zh)
+                    LOG.info("BC报表中不存在'%s'列" % zone_zh)
+                    zone_dict.pop(zone_en)
+                    self.config.set_zone_dict(zone_dict)
+                    continue
             except Exception as e:
                 msg = u"未从表格中解析到%s所在列的列号, error: %s" % (zone_zh, str(e))
                 LOG.error(msg)
@@ -127,6 +130,8 @@ class Caculating(object):
                     value = 0
                     if costitem_zh == "Revenue":
                         costitem_zh = u"总收入"
+                    if costitem_zh == "Sales Tax":
+                        costitem_zh=u"税金"
                     rowx_index = self.__get_y_index(costitem_zh)
                     if rowx_index:
                         # 获取bc报表单元格值
@@ -134,9 +139,9 @@ class Caculating(object):
                             rowx_index, colx_index)
                     if not value:
                         value = 0
-                    # 初始化对应成本中心，各项值
-                    if costitem_zh == "Revenue" or costitem_zh == u"总收入":
-                        value = abs(value)
+                    # # 初始化对应成本中心，各项值
+                    # if costitem_zh == "Revenue" or costitem_zh == u"总收入":
+                    #     value = abs(value)
                     setattr(self.cost_center_obj, zone_en + "_" + costitem_en, value)
                 except Exception as err:
                     msg = u"总成本中心解析出错, 总成本中心：%s, 项目：%s, error: %s" % (
@@ -153,6 +158,11 @@ class Caculating(object):
         ratio_dict = project.get_ratio().get("ratio")
         weight_ratio_dict = project.get_ratio().get("weight_ratio")
         for slave_csostcenter_zh, ratio in ratio_dict.items():
+
+            # 成本中心为other的不计算
+            if slave_csostcenter_zh == "other":
+                continue
+
             if master_costcenter_zh == slave_csostcenter_zh:
                 # 遍历出的主成本中心时，不需要计算成本变化
                 continue
@@ -184,7 +194,7 @@ class Caculating(object):
                     temp_value = value * ratio
 
                 if costitem == "Revenue":
-                    temp_value = abs(temp_value)
+                    temp_value = 0 - temp_value
 
                 costitem_en = Util.get_costitem_en(costitem, costitem_dict)
                 # 主要成本中心默认的总成本

@@ -2,6 +2,9 @@
 import re
 from excel.config.config import Config
 from excel.read_write.read_write_excel import ExcelRead
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 
 PROJECT_ID = u"项目编号"
 SS_COST_CETER = u"实施成本中心"
